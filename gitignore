@@ -1,0 +1,15 @@
+# Kaggle data (download from the competition page)
+data/
+*.csv
+!outputs/*.csv
+
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# OS / editor
+.DS_Store
+.vscode/
